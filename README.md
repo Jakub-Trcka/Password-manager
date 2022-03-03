@@ -1,0 +1,3 @@
+# Password-manager
+
+!!! YOU NEED TO CREATE A FOLDER CALLED "passwords", IF YOU DON'T CREATE A FOLDER IT WILL GIVE YOU AN ERROR !!!
